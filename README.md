@@ -18,6 +18,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Firebase](https://firebase.google.com/)
+- [Sass](https://sass-lang.com/)
 
 ### Como foi!
 
